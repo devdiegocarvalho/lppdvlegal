@@ -1,0 +1,24 @@
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.button {
+  display: block;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  padding: 3rem 6rem;
+  background-color: var(--color-p2);
+  border-radius: 6rem;
+  cursor: pointer;
+  max-width: max-content;
+  transition: all 0.3s;
+  box-shadow: 1.1rem 1.7rem 3rem -1.3rem rgb(29 110 125 / 80%);
+}
+
+.button:hover {
+  background-color: var(--color-p3);
+  transform: scale(1.1);
+}

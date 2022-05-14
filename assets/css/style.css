@@ -1,0 +1,12 @@
+/* RESET */
+@import url("./reset.css");
+
+/* COMPONENTS */
+@import url("./components.css");
+
+/* VARIABLES */
+@import url("./variables.css");
+
+/* PAGE */
+@import url("./intro.css");
+@import url("./advantages.css");
