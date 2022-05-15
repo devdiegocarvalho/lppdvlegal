@@ -1,0 +1,52 @@
+.feature {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
+.feature h2 {
+  font-size: 5.9rem;
+  color: var(--color-p1);
+  margin-bottom: 1.5rem;
+}
+
+.feature .tagline {
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--color-1);
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+}
+
+.feature p {
+  max-width: 50ch;
+  font-size: 1.8rem;
+  color: var(--color-2);
+  line-height: 1.4;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .feature {
+    grid-template-columns: 1fr;
+    align-items: center;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .feature h2 {
+    font-size: 3rem;
+    text-align: center;
+  }
+
+  .feature .tagline {
+    font-size: 2.6rem;
+    text-align: center;
+  }
+
+  .feature p {
+    text-align: center;
+  }
+}

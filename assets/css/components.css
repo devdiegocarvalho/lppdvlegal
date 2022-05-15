@@ -1,6 +1,8 @@
 .container {
   max-width: 1140px;
   margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 .button {
@@ -21,4 +23,11 @@
 .button:hover {
   background-color: var(--color-p3);
   transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .button {
+    font-size: 1.8rem;
+    padding: 2.5rem 5rem;
+  }
 }
