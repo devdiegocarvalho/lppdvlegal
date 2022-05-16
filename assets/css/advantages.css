@@ -36,3 +36,9 @@
   color: var(--color-2);
   text-transform: uppercase;
 }
+
+@media (max-width: 768px) {
+  .advantages ul {
+    flex-direction: column;
+  }
+}
