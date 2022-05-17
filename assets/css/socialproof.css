@@ -1,0 +1,64 @@
+.socialproof-bg {
+  background: linear-gradient(180deg, #0097d7 0%, #6ec1e4 100%);
+}
+
+.socialproof {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  text-align: center;
+  color: white;
+}
+
+.socialproof h2 {
+  font-size: 3.6rem;
+  line-height: 1;
+  font-weight: bold;
+  margin-bottom: 6rem;
+}
+
+.socialproof p {
+  font-size: 2.4rem;
+  line-height: 1;
+  text-transform: uppercase;
+  margin-bottom: 5rem;
+}
+
+.socialproof h2:last-of-type {
+  font-size: 3.2rem;
+  margin-top: 7.2rem;
+  margin-bottom: 4.2rem;
+  text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+}
+
+.socialproof-videos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+}
+
+.socialproof iframe {
+  border: 0.5rem solid white;
+  border-radius: 1rem;
+  margin-bottom: 4.9rem;
+}
+
+@media (max-width: 768px) {
+  .socialproof-videos {
+    grid-template-columns: 1fr;
+  }
+
+  .socialproof h2 {
+    font-size: 3rem;
+    line-height: 1.2;
+  }
+
+  .socialproof h2:last-of-type {
+    font-size: 2.6rem;
+    line-height: 1.2;
+  }
+
+  .socialproof p {
+    font-size: 2.4rem;
+    line-height: 1.1;
+  }
+}
