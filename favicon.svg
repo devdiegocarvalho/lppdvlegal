@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="30"
+   height="30"
+   viewBox="0 0 7.9374996 7.9375004"
+   version="1.1"
+   id="svg250"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview252"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="5.2410024"
+     inkscape:cx="43.02612"
+     inkscape:cy="9.8263644"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs247" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="st0"
+       d="M 1.3309228,7.3778748 V 3.184743 H 2.2131881 V 6.5904768 H 3.5128692 V 7.3683882 H 1.3309228 Z m 0,-5.179751 V 0.71819484 h 2.2957871 c 0.5217698,0 0.9107255,0.0284598 1.1858405,0.0948672 C 5.1920194,0.89844257 5.514568,1.0597168 5.789683,1.2873982 6.0837715,1.5340529 6.3114528,1.8376281 6.4822139,2.1981237 H 5.4576477 C 5.2584266,1.9230087 5.0212584,1.7427608 4.7556301,1.6289202 4.518462,1.534053 4.138993,1.4961061 3.6172232,1.4961061 H 2.2226748 V 2.1981237 Z M 6.7763023,3.184743 c 0.047434,0.2561416 0.066407,0.5407432 0.066407,0.8253449 0,0.5027965 -0.056921,0.9486725 -0.1802476,1.3376281 C 6.5486208,5.7366717 6.3968333,6.0592203 6.2070988,6.3153618 6.0173644,6.5715033 5.8181432,6.7707245 5.5999485,6.9130254 5.3817539,7.0648129 5.1161256,7.1691669 4.8030637,7.2450608 4.7461427,7.2640358 4.689223,7.2735228 4.6323027,7.2830078 V 6.4671493 c 0.00949,-0.00949 0.018973,-0.00949 0.02846,-0.00949 C 4.9074174,6.372281 5.1066385,6.2584404 5.2584261,6.1066528 5.467134,5.8979449 5.6284084,5.6133432 5.742249,5.2623343 5.8560897,4.9113256 5.9130101,4.484423 5.9130101,3.9816266 c 0,-0.3035751 -0.018973,-0.5692034 -0.066407,-0.8158582 h 0.9296988 z"
+       id="path94"
+       style="fill:#0597f2;stroke-width:0.0948672" />
+    <polygon
+       class="st1"
+       points="-19.5,331.5 -23.6,327.5 -27.7,323.5 -23.6,319.4 -19.5,315.4 -15.4,319.4 -11.3,323.5 -15.4,327.5 "
+       id="polygon96"
+       transform="matrix(0.09486724,0,0,0.09486724,5.9319839,-26.641517)"
+       style="fill:#8089a6" />
+  </g>
+</svg>
