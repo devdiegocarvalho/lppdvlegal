@@ -4,7 +4,7 @@
       rgba(0, 152, 215, 0.82) 0%,
       rgba(0, 187, 232, 0.9) 100%
     ),
-    url("../img/bg_header.jpg") no-repeat center center;
+    url("../../assets/img/bg_header.webp") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   padding-top: 2rem;
